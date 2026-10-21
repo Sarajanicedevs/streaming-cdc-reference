@@ -1,0 +1,1 @@
+"""Local CDC event processor."""
