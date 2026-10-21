@@ -1,0 +1,4 @@
+{"event_id":"1","key":"user-1","version":1,"op":"upsert","value":{"name":"A"}}
+{"event_id":"2","key":"user-1","version":2,"op":"upsert","value":{"name":"B"}}
+{"event_id":"2","key":"user-1","version":2,"op":"upsert","value":{"name":"B"}}
+{"event_id":"3","key":"user-2","version":1,"op":"delete"}
